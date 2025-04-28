@@ -12,7 +12,7 @@ Explore our presentation slides [here](https://docs.google.com/presentation/d/1h
 
 **Team Members**: Viswaretas Kotra, Rexford Nimoh
 
-**Challenge Advisors & TAs**: Josh McAdams, Esther Lou
+**Challenge Advisors & TAs**: Break Through Tech AI Team
 
 ## Tech Stack 🛠️
 
